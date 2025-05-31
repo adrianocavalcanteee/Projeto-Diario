@@ -32,9 +32,3 @@ Cada registro pode ser salvo em um arquivo separado ou em um único arquivo com 
 
 ---
 
-## 📚 Tecnologias Utilizadas
-
-- Java (JDK 8+)
-- Interface gráfica com Swing
-- Programação orientada a objetos
-- Manipulação de arquivos texto
