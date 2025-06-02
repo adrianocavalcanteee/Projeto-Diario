@@ -1,6 +1,6 @@
 # 📔 Projeto Diário Pessoal
 
-Projeto acadêmico desenvolvido em Java com interface gráfica, que permite o gerenciamento de anotações diárias. O sistema implementa um **CRUD completo (Criar, Ler, Atualizar, Deletar)** para registros pessoais, simulando um diário digital.
+Projeto acadêmico desenvolvido em Python com interface gráfica, que permite o gerenciamento de anotações diárias. O sistema implementa um **CRUD completo (Criar, Ler, Atualizar, Deletar)** para registros pessoais, simulando um diário digital.
 
 ---
 
