@@ -6,7 +6,7 @@ Projeto acadêmico desenvolvido em Python com interface gráfica, que permite o 
 
 ## 🧠 Objetivo
 
-Criar uma aplicação de diário pessoal com interface gráfica amigável, utilizando conceitos de programação orientada a objetos, eventos e persistência de dados em Java. Este projeto tem fins acadêmicos e visa reforçar habilidades em desenvolvimento de software com GUI.
+Criar uma aplicação de diário pessoal com interface gráfica amigável, utilizando conceitos de programação orientada a objetos, eventos e persistência de dados em Python. Este projeto tem fins acadêmicos e visa reforçar habilidades em desenvolvimento de software com GUI.
 
 ---
 
